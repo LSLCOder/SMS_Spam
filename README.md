@@ -2,6 +2,8 @@
 
 A simple web application built with Streamlit that classifies SMS messages as spam or ham using a Naive Bayes classifier.
 
+![Screenshot](images/Screenshot1.png)
+
 ## 🔧 How to Run Locally
 
 1. Clone the repository
@@ -11,3 +13,4 @@ A simple web application built with Streamlit that classifies SMS messages as sp
 ## 🌐 Live App
 
 [Click here to open the live app](https://smsspam-fnegseslnj3h4d2y4khete.streamlit.app)
+
