@@ -10,4 +10,4 @@ A simple web application built with Streamlit that classifies SMS messages as sp
 
 ## 🌐 Live App
 
-[Click here to open the live app](https://your-username-your-repo-name.streamlit.app)
+[Click here to open the live app](https://smsspam-fnegseslnj3h4d2y4khete.streamlit.app)

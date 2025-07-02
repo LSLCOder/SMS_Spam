@@ -11,8 +11,8 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 # ========= Kaggle API Config ========= #
-os.environ['KAGGLE_USERNAME'] = 'lawrencelaguidao'  # replace with your Kaggle username
-os.environ['KAGGLE_KEY'] = '197e1dbb2ae7602eae7784057ec1e55f'  # replace with your Kaggle API key
+os.environ['KAGGLE_USERNAME'] = 'lawrencelaguidao'
+os.environ['KAGGLE_KEY'] = '197e1dbb2ae7602eae7784057ec1e55f'
 
 # Download the dataset using Kaggle API (only runs if file is missing)
 if not os.path.exists('spam.csv'):
